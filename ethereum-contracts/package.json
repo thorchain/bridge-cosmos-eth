@@ -15,7 +15,7 @@
     "ethereumjs-util": "^5.2.0",
     "keccak": "^1.4.0",
     "keythereum": "^1.0.4",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "utf8": "^3.0.0"
   },
   "devDependencies": {
